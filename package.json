@@ -1,0 +1,32 @@
+{
+  "name": "normal-service-app",
+  "version": "1.0.0",
+  "description": "need any help,select any of the service required",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merajonline/normal-service-app.git"
+  },
+  "keywords": [
+    "express",
+    "RestApi",
+    "Mongodb",
+    "Mongoose",
+    "service"
+  ],
+  "author": "meraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/merajonline/normal-service-app/issues"
+  },
+  "homepage": "https://github.com/merajonline/normal-service-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.8"
+  }
+}
+
